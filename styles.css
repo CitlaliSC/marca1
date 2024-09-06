@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+/* header */
+.nav {
+    display: inline-flex;
+    gap: 20px;
+}
+
+#logo {
+    width: 100px;
+}
+
+#language img {
+    height: 20px;
+}
